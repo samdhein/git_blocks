@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+}
+img {
+    height: 200px;
+}
+.row {
+    margin: 10px;
+    padding: 10px;
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: space-evenly;
+}
