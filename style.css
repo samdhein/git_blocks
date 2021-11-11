@@ -1,5 +1,6 @@
 * {
     text-align: center;
+    font-family: sans-serif;
 }
 img {
     height: 200px;
@@ -10,4 +11,10 @@ img {
     background-color: rebeccapurple;
     display: flex;
     justify-content: space-evenly;
+}
+#row2 {
+    background-color: red;
+}
+#row3 {
+    background-color: royalblue;
 }
